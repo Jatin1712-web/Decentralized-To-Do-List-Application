@@ -16,12 +16,23 @@ To empower users to take full ownership of their productivity tools by eliminati
 - 🔐 User-specific task storage using `msg.sender`
 - 📡 Events for real-time front-end integration
 
-## 🔮 Future Scope
-- 🧠 Add deadlines and priority tagging
-- 📱 Create a React/Next.js front-end to interact with the smart contract
-- 🔔 On-chain reminders using Chainlink Keepers or Gelato
-- 🧾 Enable cross-device sync with wallet-based login
-- 📊 Analytics on completed vs. pending tasks
+🔮 Future Scope
+🧠 Task Management Enhancements
+Add support for deadlines and priority tagging to improve task organization.
+
+📱 Front-End Integration
+Develop a user-friendly interface using React/Next.js to interact seamlessly with the smart contract.
+
+🔔 Automated On-Chain Reminders
+Integrate Chainlink Keepers or Gelato to trigger reminders and automate task follow-ups.
+
+🧾 Cross-Device Synchronization
+Implement wallet-based login for secure and consistent access across devices.
+
+📊 Task Analytics
+Provide insights into completed vs. pending tasks through visual analytics and performance metrics.
+
+
 
 ## Contract details
 0x25dB15B34aB454029E6e371D5703c8Aeeed3f882
